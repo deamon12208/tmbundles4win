@@ -3,5 +3,7 @@ filenames munged to be legal under windows. Many of these bundles (especially
 their commands) will *not* work as-is.
 
 For bundles that have been ported to run correctly under the e-texteditor on
-Windows, please see the e-bundles repository.
+Windows, please see the e-bundles repository on
+"GitHub":http://github.com/gtcaz/ebundles/tree/master or "Google
+Code":http://code.google.com/p/ebundles/ (svn).
 
